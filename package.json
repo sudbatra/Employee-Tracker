@@ -1,0 +1,26 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudbatra/Employee-Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudbatra/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/sudbatra/Employee-Tracker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^8.1.2",
+    "jest": "^27.0.6",
+    "mysql2": "^2.3.0"
+  }
+}
